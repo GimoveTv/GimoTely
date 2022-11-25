@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "GimoveTv (https://github.com/gimovetv/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/gimovetv/GimoTey",
+  "homepage": "https://github.com/gimovetv/GimoTely",
   "bugs": {
-    "url": "https://github.com/gimovetv/GimoTey/issues"
+    "url": "https://github.com/gimovetv/GimoTely/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gimovetv/GimoTey.git"
+    "url": "git+https://github.com/gimovetv/GimoTely.git"
   }
 }
